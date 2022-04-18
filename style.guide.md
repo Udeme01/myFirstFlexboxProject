@@ -30,4 +30,4 @@ The designs were created to the following widths:
 ### Font
 
 - Family: Arial, Helvetica, sans-serif;
-- Weights: 400, 700
+- Weights: 700,900,bold;
